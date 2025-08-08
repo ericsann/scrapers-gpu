@@ -15,3 +15,5 @@ Quero que implemente toda a lógica para que o scrapper seja capaz de filtrar as
     "gddr"
    }
 ]
+
+Faça a analise, porém acredito que será necessário usar o pupperteer para realizar a captura da informação devido a uma suposta trava na tentativa de extrair os dados.
