@@ -1,0 +1,342 @@
+{
+  "timestamp": "2025-08-08T22:19:06.295Z",
+  "total_placas": 56,
+  "placas": [
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 WINDFORCE OC SFF 12G NVIDIA GeForce",
+      "preco": "R$ 5.499,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5060 WINDFORCE OC 8G NVIDIA GeForce",
+      "preco": "R$ 2.449,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo MSI RTX 5060 Ti 16G SHADOW 2X OC PLUS Geforce NVIDIA",
+      "preco": "R$ 3.399,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 3050 Windforce OC NVIDIA GeForce",
+      "preco": "R$ 1.429,99",
+      "ram": "6GB",
+      "gddr": "GDDR6"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS DUAL RTX 5060 O8G NVIDIA GeForce",
+      "preco": "R$ 2.749,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo MSI RTX 5070 12G Shadow 2x OC Nvdia Geforce",
+      "preco": "R$ 4.099,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5060 EAGLE OC 8G NVIDIA GeForce",
+      "preco": "R$ 2.399,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 Ti WINDFORCE SFF 16G NVIDIA GeForce",
+      "preco": "R$ 6.499,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5060 EAGLEOC ICE 8G NVIDIA GeForce",
+      "preco": "R$ 2.699,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo MSI GeForce RTX 5070 12G VENTUS 2X OC",
+      "preco": "R$ 4.599,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo RTX 5060 Ti EAGLE OC 16G Gigabyte NVIDIA GeForce",
+      "preco": "R$ 3.399,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo RTX 5060 Ti GAMING OC 16G Gigabyte NVIDIA GeForce",
+      "preco": "R$ 3.599,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS PRIME RTX 5060 O8G NVIDIA GeForce",
+      "preco": "R$ 2.499,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo MSI Geforce RTX 5070 TI 16G VENTUS 3X OC",
+      "preco": "R$ 5.999,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo MSI RTX 5060 8G VENTUS 2X OC Geforce NVIDIA",
+      "preco": "R$ 2.399,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Galax RTX5060 1-Click OC NVIDIA GeForce",
+      "preco": "R$ 2.649,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS TUF RTX 5060 TI OC 16G GAMING NVIDIA Geforce",
+      "preco": "R$ 3.999,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 EAGLE OC ICE SFF 12G NVIDIA GeForce",
+      "preco": "R$ 4.499,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 GAMING OC 12G NVIDIA GeForce",
+      "preco": "R$ 4.849,90",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS PRIME RTX 5070 O12G NVIDIA Geforce, 12GB, GDDR7, Blackwell e DLSS4, Ray Tracing, Edição OC - 90YV0M10-M0NA00",
+      "preco": "R$ 4.599,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Galax NVIDIA GeForce RTX 3060, 12GB GDDR6, LHR, 1-Click OC, 15GBps, Ray Tracing, DLSS - 36NOL7MD1VOC",
+      "preco": "R$ 2.310",
+      "ram": "12GB",
+      "gddr": "GDDR6"
+    },
+    {
+      "modelo": "Placa de Vídeo RTX 5070 WINDFORCE SFF 12G Gigabyte NVIDIA GeForce, 12GB, GDDR7, 192bits, DLSS, Ray Tracing - 9VN5070W-00-G10",
+      "preco": "R$ 4.299,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 EAGLE OC SFF 12G NVIDIA GeForce, 12GB GDDR7, 192bits, RGB, DLSS, Ray Tracing - 9VN5070EO-00-G10",
+      "preco": "R$ 4.899,90",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5080 GAMING OC, NVIDIA, 16GB, GDDR7, BIOS DUAL, IA com FP4, DLSS 4 - GV-N5080GAMING OC-16GD G10",
+      "preco": "R$ 8.999,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo RTX 3050 Twin X2 Inno3D NVIDIA GeForce, 6GB - N30502-06D6-1711VA60",
+      "preco": "R$ 1.389,90",
+      "ram": "6GB",
+      "gddr": "N/A"
+    },
+    {
+      "modelo": "Placa de Vídeo GALAX RTX 5070 1-Click OC NVIDIA GeForce, 12GB, GDDR7, 192 Bit, Ray Tracing, DLSS 4 - 57NON7MDBROC",
+      "preco": "R$ 4.499,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo GTX 750 TI PCYes NVIDIA GeForce, 4GB GDDR5, 128 Bit, Full Size - PA750TIR5DFFS",
+      "preco": "R$ 660,99",
+      "ram": "4GB",
+      "gddr": "GDDR5"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5060 AERO OC 8G NVIDIA GeForce, 8GB GDDR7, 128bits, DLSS, Triple Fan, Ray Tracing - GV-N5060AERO OC-8GD",
+      "preco": "R$ 2.899,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo GALAX RTX 5070 1-Click OC White NVIDIA GeForce, 12GB, GDDR7, 192 Bits, Ray Tracing, DLSS 4 - 57NON7MDBSWH",
+      "preco": "R$ 4.499,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo PCyes NVIDIA RTX 2060 Graffiti Series, 6GB, GDDR6, Preto - PA2060RTX6GDF",
+      "preco": "R$ 1.679,99",
+      "ram": "6GB",
+      "gddr": "GDDR6"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS TUF RTX 5060 O8G GAMING NVIDIA GeForce, 8GB GDDR7, 2677MHz, DLSS 4, Triple Fan, Ray Tracing - TUF-RTX5060-O8G-GAMING",
+      "preco": "R$ 2.659,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS RTX 5060 TI DUAL O8G NVIDIA GeForce, 8GB, GDDR7, DLSS, Ray Tracing - 90YV0MP2-M0NA00",
+      "preco": "R$ 3.499,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 Ti WINDFORCE OC SFF 16G NVIDIA GeForce, 16GB GDDR7, 256bits, DLSS, Ray Tracing - 9VN507TWO-00-G10",
+      "preco": "R$ 6.899,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo MSI RTX 5060 Ti 8G VENTUS 2X OC PLUS NVIDIA GeForce, 8GB GDDR7, 128-bit, 2617 MHz, FP4 e DLSS 4, Ray Tracing - G506T-8V2CP",
+      "preco": "R$ 3.599,90",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS TUF RTX 5070 O12G GAMING NVIDIA Geforce, 12GB, GDDR7, Blackwell, DLSS4, Edição OC - 90YV0LZ0-M0NA00",
+      "preco": "R$ 5.299,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS TUF RTX 5070 Ti O16G GAMING NVIDIA Geforce, 16GB, GDDR7, IA com FP4 e DLSS4, Edição OC - 90YV0MD0-M0NA00",
+      "preco": "R$ 7.399,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Palit RTX 5070 GamingPro NVIDIA GeForce, 12GB, GDDR7, ARGB SYNC EVO, G-Sync, Ray Tracing, DLSS 4 - NE75070019K9-GB2050A",
+      "preco": "R$ 4.399,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo RTX 5060 Ti WINDFORCE 8G Gigabyte NVIDIA GeForce, 8GB GDDR7, 128bits, DLSS, Ray Tracing - GV-N506TWF2-8GD",
+      "preco": "R$ 3.199,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 Ti EAGLE OC SFF 16G NVIDIA GeForce, 16GB GDDR7, 256bits, RGB, DLSS, Ray Tracing - 9VN507TEO-00-G10",
+      "preco": "R$ 6.626,40",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS RTX5090 ROG Astral Gaming OC NVIDIA GeForce, 32GB, GDDR7, ARGB, G-Sync, Ray Tracing, DLSS 4, HDR - 90YV0LW0-M0NA00",
+      "preco": "R$ 20.999,99",
+      "ram": "32GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5070 Ti GAMING OC 16G NVIDIA GeForce, 16GB GDDR7, 256bits, RGB, DLSS, Ray Tracing - 9VN507TGO-00-G10",
+      "preco": "R$ 7.299,90",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo GALAX RTX 5060 TI 1-Click OC 16GB NVIDIA GeForce, 128bits, GDDR7, DLSS 4, Ray Tracing - 56IZN8MDCPOC",
+      "preco": "R$ 3.699,00",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Palit RTX 5070 Ti GameRock NVIDIA GeForce OC, 16GB, GDDR7, ARGB SYNC EVO, Ray Tracing, DLSS 4 - NE7507TH19T2-GB2030G",
+      "preco": "R$ 6.899,90",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Asus PRIME RTX 5060 TI O8G NVIDIA GeForce, 8GB, GDDR7, 2647MHz, 128bits, Triple Fan, DLSS 4, Ray Tracing - 90YV0MP0-M0NA00",
+      "preco": "R$ 3.099,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Galax GeForce RTX 5060 1-Click OC NVIDIA GeForce, 8GB, 128bits, GDDR7, G-SYNC, DLSS 4, Launch Edition - 56NSN8MDCPLE",
+      "preco": "R$ 2.449,99",
+      "ram": "8GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS DUAL RTX 5060 TI O16G NVIDIA GeForce, 16GB GDDR7, 2602MHz, 128 bits, OpenGL4.6, DLSS 4, Ray Tracing - 90YV0MH0-M0NA00",
+      "preco": "R$ 3.999,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa De Video Msi Geforce RTX 5060 Ti 16gb Shadow 2x Oc Plus Gddr7 912-v535-029",
+      "preco": "R$ 3.754,44",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Inno3D RTX 5080 X3 OC NVIDIA GeForce, 16GB, GDDR7, G-Sync, Ray Tracing, DLSS 4, HDR - N50803-16D7X-17603930",
+      "preco": "R$ 8.663,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo MSI GeForce RTX 5080 16G VENTUS 3X OC WHITE NVIDIA GeForce, 16GB, GDDR7, FP4 e DLSS 4 - G5080-16V3CW",
+      "preco": "R$ 9.299,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5090 WINDFORCE OC 32G NVIDIA GeForce, 32GB, GDDR7, G-Sync, DLSS 4, Ray Tracing, HDR - GV-N5090WF3OC-32GD",
+      "preco": "R$ 18.359,00",
+      "ram": "32GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Gigabyte RTX 5080 AERO OC, NVIDIA, 16GB, GDDR7, BIOS DUAL, IA com FP4, DLSS 4 - GV-N5080AERO OC-16GD G10",
+      "preco": "R$ 10.159,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo RTX 5090 AORUS MASTER ICE 32G Gigabyte NVIDIA GeForce, 32GB GDDR7, 512bits, RGB, DLSS, Ray Tracing - 9VN5090AMI-00-G10",
+      "preco": "R$ 20.999,90",
+      "ram": "32GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Inno3D RTX 5070 Twin X2 OC NVIDIA GeForce, 12GB, GDDR7, 2542MHz, Blackwell, Ray Tracing, DLSS 4 - N50702-12D7X-195064N",
+      "preco": "R$ 4.999,99",
+      "ram": "12GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo ASUS PRIME RTX 5070 Ti O16G NVIDIA Geforce, 16GB, GDDR7, IA com FP4 e DLSS4, Edição OC - 90YV0MF0-M0NA00",
+      "preco": "R$ 6.799,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Palit RTX 5080 GameRock NVIDIA GeForce, 16GB, GDDR7, ARGB SYNC EVO, G-Sync, Ray Tracing, DLSS 4 - NE75080019T2-GB2030G",
+      "preco": "R$ 9.199,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    },
+    {
+      "modelo": "Placa de Vídeo Palit RTX 5080 GameRock OC NVIDIA GeForce, 16GB, GDDR7, ARGB SYNC EVO, G-Sync, Ray Tracing, DLSS 4 - NE75080T19T2-GB2030G",
+      "preco": "R$ 9.199,99",
+      "ram": "16GB",
+      "gddr": "GDDR7"
+    }
+  ]
+}
