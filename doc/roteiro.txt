@@ -1,0 +1,17 @@
+Este projeto deve ser um scrapper.
+Iremos raspar o site da Kabum para raspar placas de video da nvidia.
+URL do site: https://www.kabum.com.br/
+URL placas Nvidia: https://www.kabum.com.br/hardware/placa-de-video-vga/placa-de-video-nvidia 
+URL placas com parametros: https://www.kabum.com.br/hardware/placa-de-video-vga/placa-de-video-nvidia?page_number=2&page_size=20&facet_filters=&sort=most_searched
+
+Realizei teste no postman com a url e foi retornado um objeto JSON da seguinte forma: "<script id="__NEXT_DATA__" type="application/json">
+        {"props":{"pageProps":{"cookieIsMobile":false,"hasTopBannerClosed":false,"data":"{\"catalogServer\":{\"meta\":{\"breadcrumb\":[{\"id\":1,\"name\":\"Hardware\",\"path\":\"/hardware\"},{\"id\":14,\"name\":\"Placa de vídeo (VGA)\",\"path\":\"/placa-de-video-vga\"},{\"id\":20071,\"name\":\"Placa de vídeo Nvidia\",\"path\":\"/placa-de-video-nvidia\"}],\"seo\":{\"title\":\"Placa de Vídeo NVIDIA RTX 5090, RTX 5080 no KaBuM!\",\"description\":\"Compre agora a sua RTX 5070 TI, RTX 5070, RTX 4090 com preços imperdíveis no KaBuM! Equipe seu setup com a melhor Placa de Vídeo NVIDIA.\",\"titleHeading\":\"Placas de Vídeo Nvidia: KaBuM! com Descontos Imperdíveis\\r\"},\"promotion\":{\"title\":\"\",\"description\":\"\"}"
+
+Quero que implemente toda a lógica para que o scrapper seja capaz de filtrar as placas e extrair os dados de cada placa como quantidade de RAM, preço, modelo e qual geração gddr é. exemplo de objeto que deve ser retornado:
+[
+   { "modelo",
+    "preco",
+    "ram",
+    "gddr"
+   }
+]
