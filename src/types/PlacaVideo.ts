@@ -1,4 +1,4 @@
-export interface PlacaVideo {
+  export interface PlacaVideo {
   modelo: string;
   preco: string;
   ram: string;
